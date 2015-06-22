@@ -7,6 +7,7 @@ tmp/
 *.bak
 *.swp
 *~.nib
+*.jasper
 local.properties
 .settings/
 .loadpath
