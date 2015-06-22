@@ -1,4 +1,4 @@
-package com.topgroup.demo.jasperreports.util;
+package com.topgroup.demo.jasperreports.business.util;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;

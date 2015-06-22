@@ -13,8 +13,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 
 import com.topgroup.demo.jasperreports.business.service.ProductoService;
+import com.topgroup.demo.jasperreports.business.util.JasperReportExecutor;
 import com.topgroup.demo.jasperreports.domain.model.Cliente;
-import com.topgroup.demo.jasperreports.util.JasperReportExecutor;
 import com.vaadin.server.FileDownloader;
 import com.vaadin.server.StreamResource;
 import com.vaadin.server.StreamResource.StreamSource;
