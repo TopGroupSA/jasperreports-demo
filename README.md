@@ -1,6 +1,8 @@
 # jasperreports-demo
 #Ejemplo reportes con JasperReports en Vaadin
 
+> Requiere Maven 3.2 o superior para poder utilizar el plugin de spring-boot para maven.
+
 ###Ejecutar la aplicación por línea de comando:
 
 En el directorio raíz del proyecto, ejecutar:
